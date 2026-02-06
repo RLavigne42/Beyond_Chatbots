@@ -42,3 +42,11 @@ Welcome to Part I. This section introduces the core architecture, evaluation pra
 # Part IV — Applications & Horizons
 
 - [Prologue: Applications & Horizons](Prologue_Part_IV_Applications_and_Horizons.md)
+- [Chapter 15: Case Study — Enterprise Knowledge Assistant](Chapter_15_Case_Study_Enterprise_Knowledge_Assistant.md)
+- [Chapter 16: Case Study — Analytics Copilot (NL→SQL with Grounding)](Chapter_16_Case_Study_Analytics_Copilot_NL_to_SQL.md)
+- [Chapter 17: Case Study — Autonomous Ops Agent](Chapter_17_Case_Study_Autonomous_Ops_Agent.md)
+- [Chapter 18: Emerging Trends & Future Directions](Chapter_18_Emerging_Trends_and_Future_Directions.md)
+
+## Part IV Wrap-Up
+
+- [Epilogue: Beyond Chatbots](Epilogue_Beyond_Chatbots.md)
